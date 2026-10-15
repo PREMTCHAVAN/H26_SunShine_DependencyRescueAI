@@ -1,0 +1,11 @@
+.venv/
+.venv-win/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+repos/
+outputs/
+.dependency-rescue-backups/
+test_gemma.py
+package-lock.json
